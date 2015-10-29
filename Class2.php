@@ -13,6 +13,8 @@ class Class2
             'Charly',
             'Dennis',
             'Emma',
+            'Sam',
+            'Dan'
         ];
     }
 }

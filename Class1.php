@@ -7,6 +7,6 @@ class Class1
      */
     public function getHelloWorld()
     {
-//        return 'THIS IS A BUG!!!!!!';
+        return 'Hello World';
     }
 }
